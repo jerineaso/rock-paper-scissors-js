@@ -10,7 +10,7 @@ Website is created with:
 
 ## Link 
 
-https://jerineaso.github.io/rock-paper-scissors/
+https://jerineaso.github.io/rock-paper-scissors-js/
 
 ## Screenshot
 
